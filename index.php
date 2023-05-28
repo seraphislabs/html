@@ -1,5 +1,3 @@
 <?php
-
-$info();
-
+echo ("tes1t");
 ?>
